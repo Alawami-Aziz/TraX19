@@ -149,7 +149,7 @@ pyinstaller --onefile --noconsole main.py
  |
 | **PyInstaller** | Used to convert the Python program into a Windows .exe application.
 
- |
+ 
 
 ## Saudi Vision 2030 Alignment
 
