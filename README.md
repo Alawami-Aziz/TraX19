@@ -161,4 +161,4 @@ TraX19 Security Portal is a practical offline cybersecurity tool that allows use
 
 ## License
 
-This software is provided for personal, non-commercial use only. You may NOT modify, alter, or adapt the source code without explicit prior written permission from the authors. Commercial use or redistribution without approval is strictly prohibited. [LICENSE]{https://github.com/Alawami-Aziz/TraX19/blob/main/LICENSE}
+This software is provided for personal, non-commercial use only. You may NOT modify, alter, or adapt the source code without explicit prior written permission from the authors. Commercial use or redistribution without approval is strictly prohibited. [LICENSE](https://github.com/Alawami-Aziz/TraX19/blob/main/LICENSE)
