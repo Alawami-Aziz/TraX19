@@ -4,7 +4,7 @@ TraX19 Security Portal is a privacy-focused cybersecurity application designed t
 ```markdown
 # TraX19 Security Portal
 
-**Team Hydrotik**: Abdulaziz Wadea Alawami, Jawad Yasser Al Arafat, Hussain Adel Alkhater, Mahdi Ahmed Buholaigah.
+**Team Hydrotik**: Abdulaziz Wadia Alawami, Jawad Yasser Al Arafat, Hussain Adel Alkhater, Mahdi Ahmed Buholaigah.
 **Project Concept**: Secure Offline Messaging.
 
 ## Project Overview
