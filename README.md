@@ -2,20 +2,20 @@
 TraX19 Security Portal is a privacy-focused cybersecurity application designed to encrypt and decrypt text messages locally without requiring an internet connection. It provides a secure way to share sensitive information by locking messages behind a custom Secret Key (Seed) known only to the sender and the intended receiver.
 
 ```markdown
-# TraX19 Security Portal[cite: 13]
+# TraX19 Security Portal
 
-**Team Hydrotik**: Abdulaziz Wadea Alawami, Jawad Yasser Al Arafat, Hussain Adel Alkhater, Mahdi Ahmed Buholaigah[cite: 13].
-**Project Concept**: Secure Offline Messaging[cite: 13].
+**Team Hydrotik**: Abdulaziz Wadea Alawami, Jawad Yasser Al Arafat, Hussain Adel Alkhater, Mahdi Ahmed Buholaigah.
+**Project Concept**: Secure Offline Messaging.
 
 ## Project Overview
-TraX19 Security Portal is a cybersecurity project that allows users to encrypt and decrypt text messages locally without using the internet[cite: 13]. The project is designed to protect private messages by using a shared secret Seed between the sender and the receiver[cite: 13]. The program combines programming, cybersecurity, and basic artificial intelligence concepts through a simple interface, encryption system, and a rule-based AI assistant that checks the strength of the Seed[cite: 13].
+TraX19 Security Portal is a cybersecurity project that allows users to encrypt and decrypt text messages locally without using the internet. The project is designed to protect private messages by using a shared secret Seed between the sender and the receiver. The program combines programming, cybersecurity, and basic artificial intelligence concepts through a simple interface, encryption system, and a rule-based AI assistant that checks the strength of the Seed.
 
 ## Key Features
-* **Offline Operation**: Encryption and decryption happen locally on the user’s device without requiring an internet connection[cite: 13].
-* **Strong Privacy Protection**: Even if someone intercepts the encrypted message, they cannot read it without the correct Seed[cite: 13]. The security of the message depends on keeping the Seed private[cite: 13].
-* **Seed Strength Analysis**: The Security AI Assistant analyzes the Seed and gives feedback about its strength to help users avoid weak Seeds[cite: 13].
-* **Windows Compatibility**: The program is compiled as a Windows .exe file, allowing users to run it easily on Windows devices[cite: 13].
-* **User-Friendly Interface**: The interface is simple and clear, making the program easy to use even for users with limited technical experience[cite: 13].
+* **Offline Operation**: Encryption and decryption happen locally on the user’s device without requiring an internet connection.
+* **Strong Privacy Protection**: Even if someone intercepts the encrypted message, they cannot read it without the correct Seed. The security of the message depends on keeping the Seed private.
+* **Seed Strength Analysis**: The Security AI Assistant analyzes the Seed and gives feedback about its strength to help users avoid weak Seeds.
+* **Windows Compatibility**: The program is compiled as a Windows .exe file, allowing users to run it easily on Windows devices.
+* **User-Friendly Interface**: The interface is simple and clear, making the program easy to use even for users with limited technical experience.
 
 ## File Structure
 ```text
@@ -161,4 +161,4 @@ TraX19 Security Portal is a practical offline cybersecurity tool that allows use
 
 ## License
 
-This software is provided for personal, non-commercial use only. You may NOT modify, alter, or adapt the source code without explicit prior written permission from the authors. Commercial use or redistribution without approval is strictly prohibited.
+This software is provided for personal, non-commercial use only. You may NOT modify, alter, or adapt the source code without explicit prior written permission from the authors. Commercial use or redistribution without approval is strictly prohibited. [LICENSE]{https://github.com/Alawami-Aziz/TraX19/blob/main/LICENSE}
