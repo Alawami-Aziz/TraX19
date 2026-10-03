@@ -22,7 +22,6 @@ TraX19 Security Portal is a cybersecurity project that allows users to encrypt a
 ├── Main.py                   # The main Python source code
 ├── README.md                 # Project documentation (this file)
 ├── How to use.mp4            # Video tutorial on how to use the software
-├── TraX19.exe                # The software
 └── LICENSE                   # Custom Personal Use License
 
 ```
