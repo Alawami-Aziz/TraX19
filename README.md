@@ -151,10 +151,6 @@ pyinstaller --onefile --noconsole main.py
 
  |
 
-## Artificial Intelligence Usage
-
-The project uses a rule-based AI assistant. The assistant does not require an internet connection or an external API. It analyzes the Seed based on security rules, such as length, uppercase letters, lowercase letters, numbers, and symbols. The assistant helps users understand whether their Seed is Weak, Medium, or Strong and gives advice to improve security.
-
 ## Saudi Vision 2030 Alignment
 
 The project supports Saudi Vision 2030 by encouraging digital transformation, cybersecurity awareness, and technical innovation. It helps users understand the importance of protecting sensitive information and promotes the development of local technical solutions by students.
